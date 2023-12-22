@@ -1,0 +1,14 @@
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\bin\Debug\net8.0\adivinhacao.exe
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\bin\Debug\net8.0\adivinhacao.deps.json
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\bin\Debug\net8.0\adivinhacao.runtimeconfig.json
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\bin\Debug\net8.0\adivinhacao.dll
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\bin\Debug\net8.0\adivinhacao.pdb
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.AssemblyInfo.cs
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.dll
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\refint\adivinhacao.dll
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.pdb
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\adivinhacao.genruntimeconfig.cache
+C:\Users\italo\source\repos\adivinhacao\adivinhacao\obj\Debug\net8.0\ref\adivinhacao.dll
